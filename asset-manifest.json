@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/explicitech-gh-pages/static/js/main.d9f87625.chunk.js",
-    "main.js.map": "/explicitech-gh-pages/static/js/main.d9f87625.chunk.js.map",
-    "runtime-main.js": "/explicitech-gh-pages/static/js/runtime-main.c4181132.js",
-    "runtime-main.js.map": "/explicitech-gh-pages/static/js/runtime-main.c4181132.js.map",
-    "static/js/2.7d89bc80.chunk.js": "/explicitech-gh-pages/static/js/2.7d89bc80.chunk.js",
-    "static/js/2.7d89bc80.chunk.js.map": "/explicitech-gh-pages/static/js/2.7d89bc80.chunk.js.map",
-    "index.html": "/explicitech-gh-pages/index.html",
-    "static/js/2.7d89bc80.chunk.js.LICENSE.txt": "/explicitech-gh-pages/static/js/2.7d89bc80.chunk.js.LICENSE.txt",
-    "static/media/logo.efb7cb39.svg": "/explicitech-gh-pages/static/media/logo.efb7cb39.svg"
+    "main.js": "/static/js/main.3b02faae.chunk.js",
+    "main.js.map": "/static/js/main.3b02faae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.559b61ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.559b61ac.js.map",
+    "static/js/2.729a31af.chunk.js": "/static/js/2.729a31af.chunk.js",
+    "static/js/2.729a31af.chunk.js.map": "/static/js/2.729a31af.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.729a31af.chunk.js.LICENSE.txt": "/static/js/2.729a31af.chunk.js.LICENSE.txt",
+    "static/media/logo.efb7cb39.svg": "/static/media/logo.efb7cb39.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4181132.js",
-    "static/js/2.7d89bc80.chunk.js",
-    "static/js/main.d9f87625.chunk.js"
+    "static/js/runtime-main.559b61ac.js",
+    "static/js/2.729a31af.chunk.js",
+    "static/js/main.3b02faae.chunk.js"
   ]
 }
